@@ -52,10 +52,10 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'media/images/nerd1.jpg',
-  'media/images/nerd2.jpg',
-  'media/images/nerd3.jpg',
-  'media/images/nerd5.jpg'
+  'https://github.com/Playzu/Antek/blob/main/nerd1.jpg',
+  'https://github.com/Playzu/Antek/blob/main/nerd2.jpg',
+  'https://github.com/Playzu/Antek/blob/main/nerd3.jpg',
+  'https://github.com/Playzu/Antek/blob/main/nerd5.jpg'
 ]
 
 const PHRASES = [
