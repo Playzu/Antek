@@ -892,3 +892,7 @@ function setupSearchWindow (win) {
     }, 500)
   }, 2500)
 }
+window.onbeforeunload = function() {
+    return "Czy na pewno chcesz Zostawic Anteczka?";
+};
+
