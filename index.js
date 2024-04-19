@@ -45,7 +45,7 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'media/videos/intro.mp4',
+  'media/videos/rick.mp4',
 ]
 
 const FILE_DOWNLOADS = [
