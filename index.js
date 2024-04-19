@@ -45,8 +45,9 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'https://github.com/Playzu/Antek/blob/main/rick.mp4'
-  ',
+  'https://github.com/Playzu/Antek/blob/main/rick.mp4',
+  'https://github.com/Playzu/Antek/blob/main/nerdsong.mp4',
+  'https://github.com/Playzu/Antek/blob/main/5nerds.mp4'
 ]
 
 const FILE_DOWNLOADS = [
