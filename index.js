@@ -45,14 +45,14 @@ const SEARCHES = [
 ]
 
 const VIDEOS = [
-  'https://github.com/Playzu/Antek/blob/main/rick.mp4',
-  'https://github.com/Playzu/Antek/blob/main/nerdsong.mp4',
-  'https://github.com/Playzu/Antek/blob/main/5nerds.mp4',
-  'https://github.com/Playzu/Antek/blob/main/nerd.mp4'
+  'rick.mp4',
+  'nerdsong.mp4',
+  '5nerds.mp4',
+  'nerd.mp4'
 ]
 
 const FILE_DOWNLOADS = [
-  'https://github.com/Playzu/Antek/blob/main/nerd1.jpg',
+  'nerd1.jpg',
   'https://github.com/Playzu/Antek/blob/main/nerd2.jpg',
   'https://github.com/Playzu/Antek/blob/main/nerd3.jpg',
   'https://github.com/Playzu/Antek/blob/main/nerd5.jpg'
