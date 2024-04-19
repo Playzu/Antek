@@ -96,7 +96,7 @@ const LOGOUT_SITES = {
   Vimeo: ['GET', 'https://vimeo.com/log_out'],
   Tumblr: ['GET', 'https://www.tumblr.com/logout'],
   Allegro: ['GET', 'https://allegro.pl/wyloguj?origin_url=/'],
-  OnetMail: ['GET', 'https://authorisation.grupaonet.pl/logout.html?state=logout&client_id=poczta.onet.pl.front.onetapi.pl'], // added by @intexpression
+  OnetMail: ['GET', 'https://authorisation.grupaonet.pl/logout.html?state=logout&client_id=poczta.onet.pl.front.onetapi.pl'],
   InteriaMail: ['GET', 'https://poczta.interia.pl/logowanie/sso/logout'],
   OLX: ['GET', 'https://www.olx.pl/account/logout'],
   Roblox:  ['POST', 'https://auth.roblox.com/v2/logout'] 
@@ -107,9 +107,6 @@ const LOGOUT_SITES = {
  */
 const wins = []
 
-/**
- * Count of number of clicks  - added by @9fm
- */
 
 let interactionCount = 0
 
