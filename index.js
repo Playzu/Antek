@@ -680,8 +680,8 @@ function requestWebauthnAttestation () {
         // User:
         user: {
           id: new Uint8Array(16),
-          name: 'lolica@jaczup.me',
-          displayName: 'Ptoszek Jaczupa'
+          name: 'antek@nerdzioch.pl',
+          displayName: 'Nerdzioch Antek'
         },
 
         pubKeyCredParams: [{
