@@ -49,16 +49,10 @@ const VIDEOS = [
 ]
 
 const FILE_DOWNLOADS = [
-  'media/images/ptok.jpg',
-  'media/images/jaczup.jpg',
-  'media/images/jaczupme.jpg',
-  'media/images/ptoszek.jpg',
-  'media/images/ptakwspodniach.jpg',
-  'media/images/kichajacyptoszek.jpg',
-  'media/images/lubieptoszki.png',
-  'media/images/zimowyptoszek.jpeg', 
-  'media/images/zlyptok.jpeg', 
-  'media/images/grubyptok.jpg' 
+  'media/images/nerd1.jpg',
+  'media/images/nerd2.jpg',
+  'media/images/nerd3.jpg',
+  'media/images/nerd5.jpg'
 ]
 
 const PHRASES = [
